@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\bin\Debug\net10.0\student_marks.exe
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\bin\Debug\net10.0\student_marks.deps.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\bin\Debug\net10.0\student_marks.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\bin\Debug\net10.0\student_marks.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\bin\Debug\net10.0\student_marks.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\refint\student_marks.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\student_marks.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\exception\student_marks\obj\Debug\net10.0\ref\student_marks.dll
