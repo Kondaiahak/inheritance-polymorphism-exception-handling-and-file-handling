@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\bin\Debug\net10.0\hour_permanent.exe
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\bin\Debug\net10.0\hour_permanent.deps.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\bin\Debug\net10.0\hour_permanent.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\bin\Debug\net10.0\hour_permanent.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\bin\Debug\net10.0\hour_permanent.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\refint\hour_permanent.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\hour_permanent.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\hour_permanent\obj\Debug\net10.0\ref\hour_permanent.dll

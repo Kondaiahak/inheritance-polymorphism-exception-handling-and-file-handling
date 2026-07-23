@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\bin\Debug\net10.0\person.exe
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\bin\Debug\net10.0\person.deps.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\bin\Debug\net10.0\person.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\bin\Debug\net10.0\person.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\bin\Debug\net10.0\person.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\refint\person.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\person.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\inheritence\person\obj\Debug\net10.0\ref\person.dll
