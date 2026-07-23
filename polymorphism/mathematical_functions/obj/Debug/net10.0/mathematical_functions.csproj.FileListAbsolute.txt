@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\bin\Debug\net10.0\mathematical_functions.exe
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\bin\Debug\net10.0\mathematical_functions.deps.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\bin\Debug\net10.0\mathematical_functions.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\bin\Debug\net10.0\mathematical_functions.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\bin\Debug\net10.0\mathematical_functions.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\refint\mathematical_functions.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\mathematical_functions.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\mathematical_functions\obj\Debug\net10.0\ref\mathematical_functions.dll

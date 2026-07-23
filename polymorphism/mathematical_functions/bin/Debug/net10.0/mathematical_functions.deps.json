@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "mathematical_functions/1.0.0": {
+        "runtime": {
+          "mathematical_functions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mathematical_functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

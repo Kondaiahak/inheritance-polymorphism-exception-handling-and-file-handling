@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\bin\Debug\net10.0\calculate_area.exe
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\bin\Debug\net10.0\calculate_area.deps.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\bin\Debug\net10.0\calculate_area.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\bin\Debug\net10.0\calculate_area.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\bin\Debug\net10.0\calculate_area.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\refint\calculate_area.dll
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.pdb
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\calculate_area.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\inheritance, polymorphism, exception handling and file handling\polymorphism\calculate_area\obj\Debug\net10.0\ref\calculate_area.dll
